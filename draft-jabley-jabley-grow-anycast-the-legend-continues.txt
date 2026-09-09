@@ -4,8 +4,8 @@
 
 Global Routing Operations                                       J. Abley
 Internet-Draft                                                 B. Herdes
-Obsoletes: RFC6382 (if approved)                              Cloudflare
-Updates: RFC4786 (if approved)                           K. E. Lindqvist
+Obsoletes: 6382 (if approved)                                 Cloudflare
+Updates: 786 (if approved)                               K. E. Lindqvist
 Intended status: Best Current Practice                             ICANN
 Expires: 13 March 2027                                  9 September 2026
 
