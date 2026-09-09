@@ -9,6 +9,7 @@ number:
 date:
 consensus: true
 updates: RFC4786
+obsoletes: RFC6382
 v: 3
 area: "Operations and Management"
 workgroup: "Global Routing Operations"
