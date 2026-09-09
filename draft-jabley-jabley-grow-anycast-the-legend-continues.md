@@ -8,7 +8,7 @@ submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
-updates: 786
+updates: 4786
 obsoletes: 6382
 v: 3
 area: "Operations and Management"
