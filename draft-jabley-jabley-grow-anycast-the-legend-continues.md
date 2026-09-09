@@ -30,13 +30,17 @@ author:
     organization: Cloudflare
     email: jabley@cloudflare.com
  -
+    fullname: Kurt Erik Lindqvist
+    organization: ICANN
+    email: kurtis@kurtis.pp.se
+ -
     fullname: Bryton Herdes
     organization: Cloudflare
     email: bryton@cloudflare.com
  -
-    fullname: Kurt Erik Lindqvist
-    organization: ICANN
-    email: kurtis@kurtis.pp.se
+    fullname: Tom Strickx
+    organization: Cloudflare
+    email: tstrickx@cloudflare.com
 
 normative:
 
