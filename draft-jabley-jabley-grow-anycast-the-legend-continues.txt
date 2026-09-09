@@ -2,14 +2,16 @@
 
 
 
-WG Working Group                                              Y. N. Here
-Internet-Draft                                    Your Organization Here
-Intended status: Informational                          9 September 2026
-Expires: 13 March 2027
+Global Routing Operations                                       J. Abley
+Internet-Draft                                                 B. Herdes
+Updates: RFC4786 (if approved)                                Cloudflare
+Intended status: Best Current Practice                   K. E. Lindqvist
+Expires: 13 March 2027                                             ICANN
+                                                        9 September 2026
 
 
-                           TODO - Your title
-                  draft-todo-yourname-protocol-latest
+                     Operation of Anycast Services
+      draft-jabley-jabley-grow-anycast-the-legend-continues-latest
 
 Abstract
 
@@ -20,16 +22,19 @@ About This Document
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-todo-yourname-
-   protocol/.
+   https://ableyjoe.github.io/draft-jabley-grow-anycast-the-legend-
+   continues/draft-jabley-jabley-grow-anycast-the-legend-continues.html.
+   Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-jabley-jabley-grow-anycast-
+   the-legend-continues/.
 
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   Discussion of this document takes place on the Global Routing
+   Operations Working Group mailing list (mailto:grow@example.com),
+   which is archived at https://mailarchive.ietf.org/arch/browse/grow/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/ableyjoe/draft-jabley-grow-anycast-the-legend-
+   continues.
 
 Status of This Memo
 
@@ -70,7 +75,7 @@ Table of Contents
    4.  IANA Considerations
    5.  Normative References
    Acknowledgments
-   Author's Address
+   Authors' Addresses
 
 1.  Introduction
 
@@ -107,8 +112,18 @@ Acknowledgments
 
    TODO acknowledge.
 
-Author's Address
+Authors' Addresses
 
-   Your Name Here
-   Your Organization Here
-   Email: your.email@example.com
+   Joe Abley
+   Cloudflare
+   Email: jabley@cloudflare.com
+
+
+   Bryton Herdes
+   Cloudflare
+   Email: bryton@cloudflare.com
+
+
+   Kurt Erik Lindqvist
+   ICANN
+   Email: kurtis@kurtis.pp.se
