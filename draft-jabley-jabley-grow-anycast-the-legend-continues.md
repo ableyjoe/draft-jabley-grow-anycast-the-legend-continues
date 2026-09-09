@@ -10,16 +10,16 @@ date:
 consensus: true
 updates: RFC4786
 v: 3
-# area: AREA
-# workgroup: WG Working Group
+area: "Operations and Management"
+workgroup: "Global Routing Operations"
 keyword:
  - anycast
  - routing
 venue:
- group: grow
-#  type: Working Group
-#  mail: WG@example.com
-#  arch: https://example.com/WG
+  group: "Global Routing Operations"
+  type: "Working Group"
+  mail: "grow@example.com"
+  arch: "https://mailarchive.ietf.org/arch/browse/grow/"
   github: "ableyjoe/draft-jabley-grow-anycast-the-legend-continues"
   latest: "https://ableyjoe.github.io/draft-jabley-grow-anycast-the-legend-continues/draft-jabley-jabley-grow-anycast-the-legend-continues.html"
 
