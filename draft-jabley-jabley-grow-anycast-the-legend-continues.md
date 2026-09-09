@@ -1,22 +1,22 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
+title: "Operation of Anycast Services"
+#abbrev: "TODO - Abbreviation"
+category: bcp
 
 docname: draft-jabley-jabley-grow-anycast-the-legend-continues-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
+updates: RFC4786
 v: 3
 # area: AREA
 # workgroup: WG Working Group
 keyword:
- - next generation
- - unicorn
- - AI-native
+ - anycast
+ - routing
 venue:
-#  group: WG
+ group: grow
 #  type: Working Group
 #  mail: WG@example.com
 #  arch: https://example.com/WG
@@ -25,9 +25,17 @@ venue:
 
 author:
  -
-    fullname: "Joe Abley"
-    organization: Your Organization Here
-    email: "jabley@strandkip.nl"
+    fullname: Joe Abley
+    organization: Cloudflare
+    email: jabley@cloudflare.com
+ -
+    fullname: Bryton Herdes
+    organization: Cloudflare
+    email: bryton@cloudflare.com
+ -
+    fullname: Kurt Erik Lindqvist
+    organization: ICANN
+    email: kurtis@kurtis.pp.se
 
 normative:
 
