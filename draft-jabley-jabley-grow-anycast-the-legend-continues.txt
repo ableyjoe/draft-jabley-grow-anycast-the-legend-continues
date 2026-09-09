@@ -3,11 +3,13 @@
 
 
 Global Routing Operations                                       J. Abley
-Internet-Draft                                                 B. Herdes
-Obsoletes: 6382 (if approved)                                 Cloudflare
-Updates: 4786 (if approved)                              K. E. Lindqvist
-Intended status: Best Current Practice                             ICANN
-Expires: 13 March 2027                                  9 September 2026
+Internet-Draft                                                Cloudflare
+Obsoletes: 6382 (if approved)                            K. E. Lindqvist
+Updates: 4786 (if approved)                                        ICANN
+Intended status: Best Current Practice                         B. Herdes
+Expires: 13 March 2027                                        T. Strickx
+                                                              Cloudflare
+                                                        9 September 2026
 
 
                      Operation of Anycast Services
@@ -119,11 +121,16 @@ Authors' Addresses
    Email: jabley@cloudflare.com
 
 
+   Kurt Erik Lindqvist
+   ICANN
+   Email: kurtis@kurtis.pp.se
+
+
    Bryton Herdes
    Cloudflare
    Email: bryton@cloudflare.com
 
 
-   Kurt Erik Lindqvist
-   ICANN
-   Email: kurtis@kurtis.pp.se
+   Tom Strickx
+   Cloudflare
+   Email: tstrickx@cloudflare.com
