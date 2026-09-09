@@ -8,8 +8,8 @@ submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
-updates: RFC4786
-obsoletes: RFC6382
+updates: 786
+obsoletes: 6382
 v: 3
 area: "Operations and Management"
 workgroup: "Global Routing Operations"
